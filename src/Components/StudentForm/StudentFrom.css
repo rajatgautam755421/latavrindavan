@@ -1,0 +1,13 @@
+.containerr {
+  width: 100vw;
+  height: 100vh;
+  position: relative;
+}
+.inside__div {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  width: 50vw;
+  height: auto;
+  transform: translate(-50%, -50%);
+}
